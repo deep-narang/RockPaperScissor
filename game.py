@@ -237,3 +237,8 @@ while True:
 
 #calling in the main program
 main()
+
+
+"""  Author: Deepanshu Narang
+     Command Line Based Game
+"""
